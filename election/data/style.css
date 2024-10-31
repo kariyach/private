@@ -1,0 +1,52 @@
+body {
+    background-color: #f0f8ff}
+
+h1 {  /* 第1見出しはページタイトルを指す */
+    background-color: black; /* 見出しの背景色を変更 */
+    color: white; /* 見出しの文字色を白に変更 */
+    padding: 10px; /* 見出しの周りに余白を追加 */
+    border-radius: 5px; /* 見出しの角を丸くする（任意） */
+    text-align: center; /* 見出しの文字を中央揃え（任意） */
+}
+
+h2{
+  font-size:120%;
+  color: #8d6449
+}
+
+h3{
+  font-size:110%;
+}
+
+h4{
+  font-size:100%;
+}
+
+p {
+    font-size: 100%;
+  }
+
+a {
+  color: #96514d;
+}
+
+a:hover {
+  color: #c89932;
+}
+
+
+blockquote p {
+    font-size:90%;
+    padding: 0;
+    margin: -5px 0;
+    line-height: 1.2;
+    color: #373A3C;
+}
+
+blockquote cite {
+    font-size:95%;
+    display: block;
+    text-align: right;
+    color: #000000;
+    margin: -5px 0;
+}

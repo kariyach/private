@@ -1,0 +1,12 @@
+name: election
+title: election
+username: ezqu8k-kariyach
+account: ezqu8k-kariyach
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13189900
+bundleId: 9294384
+url: https://ezqu8k-kariyach.shinyapps.io/election/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
